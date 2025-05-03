@@ -3,4 +3,4 @@ ZX Bomber for the Spectrum Next
 
 A NextBasic version of the classic 80's game Bomber.
 
-![My Image](images/bomberbasic.jpg)
+![My Image](bomberbasic.jpg)
